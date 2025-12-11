@@ -22,16 +22,16 @@ The code is available at [COMP0173_Crop_Classiciation](COMP0173_Crop_Classificat
    - Mount Google Drive using code cell 4, and run code cell 5 to confirm the following output:
 
 Listing files in: /content/drive/MyDrive/COMP0173_Applying_New_Context/data
-y_raw_frh01.npy
-y_raw_frh02.npy
-X_raw_frh02.npy
-X_raw_frh01.npy
-y_raw_frh04.npy
-X_raw_frh04.npy
-X_raw_frh03.npy
-y_raw_frh03.npy
+\ny_raw_frh01.npy
+\ny_raw_frh02.npy
+\nX_raw_frh02.npy
+\nX_raw_frh01.npy
+\ny_raw_frh04.npy
+\nX_raw_frh04.npy
+\nX_raw_frh03.npy
+\ny_raw_frh03.npy
 
-  - The remmainder of the .ipynb file will now be reproducible.
+The remmainder of the .ipynb file will now be reproducible.
 
 ________________
 
@@ -39,7 +39,7 @@ Code documenting my reproduction of the initial baseline is available at [COMP01
 
 ________________
 
-The poster summary of this coursework is available for download at [COMP0173 Final Coursework 2 Poster](COMP0173 Final Coursework 2 Poster.pptx).
+The poster summary of this coursework is available for download at [COMP0173 Final Coursework 2 Poster]([COMP0173 Final Coursework 2 Poster.pptx](https://github.com/harryfyjiswalker/COMP0173_CW2_Crop_Classification/blob/main/COMP0173%20Final%20Coursework%202%20Poster.pptx).
 
 
 
