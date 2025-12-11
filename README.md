@@ -20,9 +20,9 @@ The code is available at [COMP0173_Crop_Classiciation](COMP0173_Crop_Classificat
    - Repeat this process for frh02, frh03, and frh04. You should now have files named X_raw_frh0X.npy and y_raw_frh0X.npy for X=1,2,3,4 locally downloaded; if not, please change the names to this form.
    - Upload all files to the "data" folder in your Google Drive.
    - Mount Google Drive using code cell 4, and run code cell 5 to confirm the following output:
-
-Listing files in: /content/drive/MyDrive/COMP0173_Applying_New_Context/data
 ```text
+Listing files in: /content/drive/MyDrive/COMP0173_Applying_New_Context/data
+
 y_raw_frh01.npy
 y_raw_frh02.npy
 X_raw_frh02.npy
