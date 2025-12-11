@@ -39,7 +39,7 @@ Code documenting my reproduction of the initial baseline is available at [COMP01
 
 ________________
 
-The poster summary of this coursework is available for download at [COMP0173 Final Coursework 2 Poster]([COMP0173 Final Coursework 2 Poster.pptx](https://github.com/harryfyjiswalker/COMP0173_CW2_Crop_Classification/blob/main/COMP0173%20Final%20Coursework%202%20Poster.pptx).
+The poster summary of this coursework is available for download at [COMP0173 Final Coursework 2 Poster.pptx](https://github.com/harryfyjiswalker/COMP0173_CW2_Crop_Classification/blob/main/COMP0173%20Final%20Coursework%202%20Poster.pptx).
 
 
 
