@@ -2,13 +2,13 @@
 
 This repository contains my work for COMP0173 CW2.
 
-[00_COMP0173_Write_Up](00_COMP0173_Write_Up.pdf) details:
+Please refer to [00_COMP0173_Write_Up](00_COMP0173_Write_Up.pdf) .pdf for:
   - Replication of Baseline Model
   - Contextualisation of crop classification, sustainability analysis and ethical considerations
   - Ppreprocessing, modelling, and hyperparameter tuning methodologies
   - Ablation studies
   - Analysis of results
-
+  - References for both write-up and poster
 ________________
 
 The code is available at [COMP0173_Crop_Classiciation](COMP0173_Crop_Classification.ipynb), produced in Google Colab. To reproduce the results:
