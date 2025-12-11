@@ -22,16 +22,16 @@ The code is available at [COMP0173_Crop_Classiciation](COMP0173_Crop_Classificat
    - Mount Google Drive using code cell 4, and run code cell 5 to confirm the following output:
 
 Listing files in: /content/drive/MyDrive/COMP0173_Applying_New_Context/data
-\ny_raw_frh01.npy
-\ny_raw_frh02.npy
-\nX_raw_frh02.npy
-\nX_raw_frh01.npy
-\ny_raw_frh04.npy
-\nX_raw_frh04.npy
-\nX_raw_frh03.npy
-\ny_raw_frh03.npy
+\n y_raw_frh01.npy
+\n y_raw_frh02.npy
+\n X_raw_frh02.npy
+\n X_raw_frh01.npy
+\n y_raw_frh04.npy
+\n X_raw_frh04.npy
+\n X_raw_frh03.npy
+\n y_raw_frh03.npy
 
-The remmainder of the .ipynb file will now be reproducible.
+The remainder of the .ipynb file will now be reproducible.
 
 ________________
 
