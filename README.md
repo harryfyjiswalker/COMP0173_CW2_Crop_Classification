@@ -2,7 +2,7 @@
 
 This repository contains my work for COMP0173 CW2.
 
-Please refer to [00_COMP0173_Write_Up](00_COMP0173_Write_Up.pdf) .pdf for:
+[00_COMP0173_Write_Up](00_COMP0173_Write_Up.pdf) details the;
   - Replication of Baseline Model
   - Contextualisation of crop classification, sustainability analysis and ethical considerations
   - Ppreprocessing, modelling, and hyperparameter tuning methodologies
