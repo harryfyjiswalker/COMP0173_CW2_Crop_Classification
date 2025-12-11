@@ -1,2 +1,5 @@
 # COMP0173_CW2_Crop_Classification
-Code and documentation for COMP0173 Coursework 2, as part of my MSc in AI for Sustainable Development at UCL.
+
+This repository contains my work for COMP0173 CW2.
+
+1. 1. [00_COMP0173_Write_Up](00_COMP0173_Write_Up.pdf)
